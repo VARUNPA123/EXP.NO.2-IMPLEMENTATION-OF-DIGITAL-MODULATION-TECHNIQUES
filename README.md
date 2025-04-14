@@ -69,5 +69,14 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 
 ## OUTPUT GRAPHS
 
+**ASK:**
+
+![image](https://github.com/user-attachments/assets/799d624e-c144-4d3a-9007-d40c899d7547)
+
+
+**FSK:**
+
+
+
 ## RESULT 
 Thus the ASK, FSK AND PSK Modulation and Demodulation techniques were analyzed.
