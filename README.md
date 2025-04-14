@@ -17,7 +17,9 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 5. Observe the waveforms at SINE1, SINE2 and MOD OUT.
 6. Connect ASK modulated signal MOD OUT to the ASK IN of the ASK DEMODULATOR.
 7. Observe various waveforms as mentioned below.
+   
 **FSK:**
+
 1. Refer to the Fig. 2.1 and carry out the following connections and switch settings.
 2. Connect power supply in proper polarity to the kit DCL-06 and switch it on.
 3. Connect SERIAL DATA generated on board to CONTROL INPUT of CARRIER MODULATOR.
@@ -25,7 +27,9 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 5. Observe the waveforms at SINE 1,SINE 2 and MOD OUT.
 6. Connect FSK modulated signal MOD OUT to the FSK IN of the FSK DEMODULATOR.
 7. Observe various waveforms as rmentioned below.
+   
 **PSK:**
+
 1. Refer to the Fig. 3.1 and carry out the following connections and switch settings.
 2. Connect power supply in proper polarity to the kit DCL-06 and switch it on.
 3. Connect SERIAL DATA generated on board to CONTROL INPUT of CARRIER MODULATOR.
