@@ -76,6 +76,12 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 
 **FSK:**
 
+![image](https://github.com/user-attachments/assets/39e8b3e4-ae35-4d29-b62f-5fb9a3252c4c)
+
+**PSK:**
+
+
+
 
 
 ## RESULT 
